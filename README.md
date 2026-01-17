@@ -11,7 +11,7 @@ I enjoy building maintainable services, exploring system architecture, and growi
 ### 🧠 Tech Stack
 
 **Languages:**  
-Java • C# • JavaScript • TypeScript • SQL  
+C# • Java • JavaScript • TypeScript • SQL  
 
 **Backend Frameworks:**  
 ASP.NET
