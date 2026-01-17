@@ -7,36 +7,39 @@ I enjoy building maintainable services, exploring system architecture, and growi
 **My Portfolio:** [ducnguyen-portfolio](https://portfolio-nguyen-xuan-duc.vercel.app/)
 
 ---
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
+<table>
+  <tr>
+    <!-- Tech Stack -->
+    <td valign="top" width="70%">
 
-  <!-- Tech Stack -->
-  <div>
-    <h3>🧠 Tech Stack</h3>
+### 🧠 Tech Stack
 
-    <b>Languages:</b><br>
-    C# • Java • JavaScript • TypeScript • SQL<br><br>
+<b>Languages:</b><br>
+C# • Java • JavaScript • TypeScript • SQL<br><br>
 
-    <b>Backend Frameworks:</b><br>
-    ASP.NET<br><br>
+<b>Backend Frameworks:</b><br>
+ASP.NET<br><br>
 
-    <b>Frontend:</b><br>
-    React • Angular<br><br>
+<b>Frontend:</b><br>
+React • Angular<br><br>
 
-    <b>Databases:</b><br>
-    PostgreSQL • SQL Server • MongoDB<br><br>
+<b>Databases:</b><br>
+PostgreSQL • SQL Server • MongoDB<br><br>
 
-    <b>Tools & Infrastructure:</b><br>
-    Docker • AWS • RabbitMQ
-  </div>
+<b>Tools & Infrastructure:</b><br>
+Docker • AWS • RabbitMQ
 
-  <!-- GIF -->
-  <div align="right">
-    <img height="200" 
-         src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-  </div>
+  </td>
 
-</div>
-
+  <!-- GIF / Image -->
+  <td valign="top" width="30%" align="right">
+    <img 
+      src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+      height="180"
+    />
+  </td>
+  </tr>
+</table>
 
 ---
 
