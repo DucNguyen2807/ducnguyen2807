@@ -7,10 +7,10 @@ I enjoy building maintainable services, exploring system architecture, and growi
 **My Portfolio:** [ducnguyen-portfolio](https://portfolio-nguyen-xuan-duc.vercel.app/)
 
 ---
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <!-- Tech Stack -->
-    <td valign="top" width="70%">
+    <td valign="top" width="65%">
 
 ### 🧠 Tech Stack
 
@@ -29,15 +29,15 @@ PostgreSQL • SQL Server • MongoDB<br><br>
 <b>Tools & Infrastructure:</b><br>
 Docker • AWS • RabbitMQ
 
-  </td>
+    </td>
 
-  <!-- GIF / Image -->
-  <td valign="top" width="30%" align="right">
-    <img 
-      src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-      height="180"
-    />
-  </td>
+    <!-- GIF / Image -->
+    <td valign="middle" width="35%" align="center">
+      <img 
+        src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+        height="260"
+      />
+    </td>
   </tr>
 </table>
 
