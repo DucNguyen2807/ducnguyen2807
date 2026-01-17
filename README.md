@@ -7,41 +7,30 @@ I enjoy building maintainable services, exploring system architecture, and growi
 **My Portfolio:** [ducnguyen-portfolio](https://portfolio-nguyen-xuan-duc.vercel.app/)
 
 ---
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
 
-    <!-- Tech Stack -->
-    <td valign="top" width="65%">
+### 🧠 Tech Stack
 
-      <h3>🧠 Tech Stack</h3>
+<img align="right" height="260" 
+     src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-      <b>Languages:</b><br>
-      C# • Java • JavaScript • TypeScript • SQL<br><br>
+**Languages:**  
+C# • Java • JavaScript • TypeScript • SQL  
 
-      <b>Backend Frameworks:</b><br>
-      ASP.NET<br><br>
+**Backend Frameworks:**  
+ASP.NET  
 
-      <b>Frontend:</b><br>
-      React • Angular<br><br>
+**Frontend:**  
+React • Angular  
 
-      <b>Databases:</b><br>
-      PostgreSQL • SQL Server • MongoDB<br><br>
+**Databases:**  
+PostgreSQL • SQL Server • MongoDB  
 
-      <b>Tools & Infrastructure:</b><br>
-      Docker • AWS • RabbitMQ
+**Tools & Infrastructure:**  
+Docker • AWS • RabbitMQ  
 
-    </td>
+<br clear="right"/>
 
-    <!-- GIF -->
-    <td valign="middle" width="35%" align="center">
-      <img 
-        src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-        height="260"
-      />
-    </td>
 
-  </tr>
-</table>
 
 ---
 
