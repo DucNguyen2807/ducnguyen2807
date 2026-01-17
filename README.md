@@ -13,26 +13,26 @@ I enjoy building maintainable services, exploring system architecture, and growi
     <!-- Tech Stack -->
     <td valign="top" width="65%">
 
-### 🧠 Tech Stack
+      <h3>🧠 Tech Stack</h3>
 
-<b>Languages:</b><br>
-C# • Java • JavaScript • TypeScript • SQL<br><br>
+      <b>Languages:</b><br>
+      C# • Java • JavaScript • TypeScript • SQL<br><br>
 
-<b>Backend Frameworks:</b><br>
-ASP.NET<br><br>
+      <b>Backend Frameworks:</b><br>
+      ASP.NET<br><br>
 
-<b>Frontend:</b><br>
-React • Angular<br><br>
+      <b>Frontend:</b><br>
+      React • Angular<br><br>
 
-<b>Databases:</b><br>
-PostgreSQL • SQL Server • MongoDB<br><br>
+      <b>Databases:</b><br>
+      PostgreSQL • SQL Server • MongoDB<br><br>
 
-<b>Tools & Infrastructure:</b><br>
-Docker • AWS • RabbitMQ
+      <b>Tools & Infrastructure:</b><br>
+      Docker • AWS • RabbitMQ
 
-    <td>
+    </td>
 
-    <!-- GIF / Image -->
+    <!-- GIF -->
     <td valign="middle" width="35%" align="center">
       <img 
         src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
