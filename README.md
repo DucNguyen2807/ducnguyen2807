@@ -4,7 +4,7 @@
 Backend-focused developer driven by clean design, system reliability, and continuous learning. 
 I enjoy building maintainable services, exploring system architecture, and growing through real-world problem solving.
 
-**My Portfolio:** [ducnguyen-portfolio](https://ducnguyen.vercel.app/)
+**My Portfolio:** [ducnguyen-portfolio](https://portfolio-nguyen-xuan-duc.vercel.app/)
 
 ---
 
